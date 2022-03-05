@@ -10,7 +10,7 @@ Import audio source flies into "Assets/Resources/Sounds" of Unity project,
 and you can play sound from anywhere by just call "SoundManager.Play("audio source flie name")"  
 It is possible to play multiple sound sources at the same time.  
 
-Unityプロジェクトの「Assets/Resources/Sounds」フォルダ内に音源ファイルを入れて，
+Unityプロジェクトの「Assets/Resources/Sounds」フォルダ内に音源ファイルを入れて，  
 「SoundManager.Play("音源名")」と記述するだけでどこからでも音源を再生可能．  
 複数音源の重複再生も可能．  
 
